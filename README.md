@@ -10,6 +10,11 @@ We know the structure of urban road network and people's travel demand. There is
 
 Required packages: numpy, pandas, **gurobipy**
 
+1. `main.py`: Main code of the algorithm
+2. `draw.ipynb`: Code to display the results
+3. `network/`: File folder storing the network and demand data
+4. `output/`: Output of the algorithm
+
 ## Explanation of the Algorithm
 
 See [here](0106_Opt_Final.pdf) (in Chinese). Comment on code in English.
